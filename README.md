@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shifihs
+- 👋 Hi, I’m @Mathew Phan/Ph
 - 👀 I’m interested in playing video games
 - 🌱 I’m currently learning AI engineer
 - 💞️ I’m looking to collaborate on ... 
